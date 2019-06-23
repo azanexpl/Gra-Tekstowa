@@ -1,0 +1,13 @@
+#ifndef PCH_H
+#define PCH_H
+#include "Czolg.h"
+#include "Helikopter.h"
+#include "Motocykl.h"
+#include "Motorowka.h"
+#include "Odrzutowiec.h"
+#include "Pociag.h"
+#include "Poduszkowiec.h"
+#include "Rower.h"
+#include "Samochod.h"
+#include "Sprzedawca.h"
+#endif //PCH_H
